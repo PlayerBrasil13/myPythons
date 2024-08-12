@@ -21,3 +21,9 @@ for row in range(5):
     for number in input_numbers:
         print(numbers[number][row], end='  ')
     print()
+# Example of output:
+# |###    #  ###  ###  # #  ###  ###  ###  ###  ###|  
+# |# #    #    #    #  # #  #    #      #  # #  # #| 
+# |# #    #  ###  ###  ###  ###  ###    #  ###  ###|
+# |# #    #  #      #    #    #  # #    #  # #    #|
+# |###    #  ###  ###    #  ###  ###    #  ###  ###|
